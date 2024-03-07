@@ -1,1 +1,1 @@
-To jest nasz projekt.
+To jest nasz projekt - LearnIT.
